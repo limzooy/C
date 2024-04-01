@@ -1,0 +1,4 @@
+﻿  0318_5.c
+C:\Users\limjy\source\2024 재수강\3주차_수업\3주차_수업\0318_5.c(11,10): warning C4477: 'scanf_s' : 서식 문자열 '%f'에 'float *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\Users\limjy\source\2024 재수강\3주차_수업\3주차_수업\0318_5.c(14,10): warning C4477: 'scanf_s' : 서식 문자열 '%f'에 'float *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+  3주차_수업.vcxproj -> C:\Users\limjy\source\2024 재수강\3주차_수업\x64\Debug\3주차_수업.exe
